@@ -1,4 +1,20 @@
-# functions_practice.py
+#######################################################################
+# $ python3 functions_practice.py
+#
+# Expected Output:
+#
+# Hello Don Waldoch!
+#
+# ['Item1', 'Number2', 'Carrot']
+#
+# First I eat an apple.
+# Next I eat a sandwich.
+# Next I eat a twinkie.
+# My lunchbox is empty!
+#
+# My lunchbox is empty!
+#
+#######################################################################
 
 # A function named hello() that prints a greeting to the user.
 # This function should accept no arguments and returns nothing.
